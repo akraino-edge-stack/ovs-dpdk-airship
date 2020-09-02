@@ -1,4 +1,5 @@
 # UUID                                                                              	Group Name
 #
 0706f97cf3b2243094a8f24452092769b1065db0                                            	GitHub Replication
+89bd17c9ed0a86b82786ca22bc86bba611476bbf                                            	saml/akraino-gerrit-ovs-dpdk-airship-committers
 ldap:cn=akraino-gerrit-ovs-dpdk-airship-committers,ou=Groups,dc=freestandards,dc=org	ldap/akraino-gerrit-ovs-dpdk-airship-committers
